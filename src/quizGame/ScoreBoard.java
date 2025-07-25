@@ -1,4 +1,4 @@
-package Quiz;
+package quizGame;
 
 import java.time.LocalDate;
 

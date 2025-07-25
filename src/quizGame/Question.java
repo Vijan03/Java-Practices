@@ -1,4 +1,4 @@
-package Quiz;
+package quizGame;
 
 public class Question {
     private String title;

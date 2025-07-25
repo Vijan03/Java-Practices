@@ -1,9 +1,8 @@
-package Quiz;
+package quizGame;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
-public class quiz {
+public class QuizGame {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

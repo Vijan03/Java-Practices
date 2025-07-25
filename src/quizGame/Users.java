@@ -1,4 +1,4 @@
-package Quiz;
+package quizGame;
 
 public class Users {
     private String username;
