@@ -19,6 +19,7 @@ public class BillRecords {
         this.billAmount = billAmount;
         this.billingDate = LocalDate.now();
     }
+
     public static boolean addBillRecord(BillRecords billRecords){
         boolean isRecordAdded = false;
         if(billRecordsList.add(billRecords)){
