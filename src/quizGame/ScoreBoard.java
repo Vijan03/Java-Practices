@@ -4,7 +4,9 @@ import java.time.LocalDate;
 
 public class ScoreBoard {
 
-
+    private int userId;
+    private int score;
+    private LocalDate Date;
 
 
     public int getUserId() {
